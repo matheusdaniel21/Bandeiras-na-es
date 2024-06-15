@@ -1,0 +1,6 @@
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\bandeiras\bandeiras\bin\Debug\bandeiras.exe.config
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\bandeiras\bandeiras\bin\Debug\bandeiras.exe
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\bandeiras\bandeiras\bin\Debug\bandeiras.pdb
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\bandeiras\bandeiras\obj\Debug\bandeiras.csprojResolveAssemblyReference.cache
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\bandeiras\bandeiras\obj\Debug\bandeiras.exe
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\bandeiras\bandeiras\obj\Debug\bandeiras.pdb
